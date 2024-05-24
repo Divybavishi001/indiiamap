@@ -1,21 +1,12 @@
-body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}
-
 .container {
     text-align: center;
 }
 
 .map-container {
     max-width: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
     position: relative;
-    padding-bottom: 60%; /* Aspect ratio: 1:1.67 (adjust as needed) */
+    padding-bottom: 100%; /* Adjust aspect ratio as needed */
 }
 
 .map {
