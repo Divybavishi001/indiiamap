@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "INML": { name: "Meghalaya", marketPotential: "5,95,000" },
         "INMZ": { name: "Mizoram", marketPotential: "5,71,000" },
         "INNL": { name: "Nagaland", marketPotential: "5,70,000" },
-        "INOD": { name: "Odisha", marketPotential: "69,95,000" },
+        "INOR": { name: "Odisha", marketPotential: "69,95,000" },
         "INPY": { name: "Puducherry", marketPotential: "8,52,000" },
         "INPB": { name: "Punjab", marketPotential: "46,25,000" },
         "INRJ": { name: "Rajasthan", marketPotential: "1,14,25,000" },
